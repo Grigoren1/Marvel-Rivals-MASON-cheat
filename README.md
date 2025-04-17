@@ -1,4 +1,4 @@
-# MasonHacks — Reliable Provider of Private Cheats for Online Games :deilluminati:
+# MasonHacks — Reliable Provider of Private Cheats for Online Games
 
 ![a163d9328ba68a8c8a505c98dfad561a](https://github.com/user-attachments/assets/4ccec847-5dd2-4088-8549-da01daec2680)
 
@@ -14,8 +14,7 @@
 ## System Requirements
 - **Supported Game Version:** Steam.
 - **Supported Game Mode:** Windowed mode.
-- **Supported OS:** Windows 10 & 11 x64 (versions: 2004, 20H2, 21H1, 21H2, 22H2, 23H2).  
-  *Check your build using the instructions [here](#).*
+- **Supported OS:** Windows 10 & 11 x64 (versions: 2004, 20H2, 21H1, 21H2, 22H2, 23H2).
 - **Supported Anti-Cheats:** In-game.
 - **Supported Processors:** Intel and AMD.
 - **Invisibility on Videos or Screenshots:** No.
